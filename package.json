@@ -1,0 +1,9 @@
+{
+  "name": "hexo-heading-numbering",
+  "version": "1.0.0",
+  "description": "",
+  "author": "deadblue",
+  "main": "index.js",
+  "dependencies": {
+  }
+}
