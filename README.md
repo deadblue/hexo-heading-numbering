@@ -22,7 +22,7 @@ Then it will be rendered as:
 1 Top heading
 1.1 Sub heading
 1.2 Another sub heading
-2.Another top heading
+2 Another top heading
 ```
 
 ## Usage
