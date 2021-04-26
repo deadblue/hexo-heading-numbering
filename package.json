@@ -1,6 +1,6 @@
 {
   "name": "hexo-heading-numbering",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically add numbered index for the headings in hexo post.",
   "keywords": [
     "hexo", "plugin"
@@ -9,6 +9,5 @@
   "repository": "https://github.com/deadblue/hexo-heading-numbering",
   "author": "deadblue",
   "license": "MIT",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
